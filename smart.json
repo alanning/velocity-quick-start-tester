@@ -1,0 +1,7 @@
+{
+  "packages": {
+    "velocity-quick-start": {
+      "path": "../meteor-velocity-quick-start/quick-start"
+    }
+  }
+}
